@@ -96,4 +96,4 @@ For support, please [open an issue](https://github.com/9483rud/Study-Buddy-App/i
 
 ## 🙏 Acknowledgments
 
-- [Add any libraries, tutorials, or people you'd like to thank]
+- Thanks to Github Copilot for the bug finding (bugs got out of hand really fast)
