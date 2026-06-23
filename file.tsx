@@ -1,1 +1,0 @@
-onChange={(e) setNewAnswer(e.target.value)}
